@@ -1,7 +1,4 @@
 /*
- Red Team Operator helper functions
-
- author: reenz0h (twitter: @SEKTOR7net)
  credits: zerosum0x0, speedi13
  
 */
